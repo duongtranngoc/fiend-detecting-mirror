@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fiend-detecting-mirror/static/css/main.984b593f.css",
+    "main.js": "/fiend-detecting-mirror/static/js/main.b26627b6.js",
+    "static/js/453.19f8209e.chunk.js": "/fiend-detecting-mirror/static/js/453.19f8209e.chunk.js",
+    "index.html": "/fiend-detecting-mirror/index.html",
+    "main.984b593f.css.map": "/fiend-detecting-mirror/static/css/main.984b593f.css.map",
+    "main.b26627b6.js.map": "/fiend-detecting-mirror/static/js/main.b26627b6.js.map",
+    "453.19f8209e.chunk.js.map": "/fiend-detecting-mirror/static/js/453.19f8209e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.984b593f.css",
+    "static/js/main.b26627b6.js"
+  ]
+}
